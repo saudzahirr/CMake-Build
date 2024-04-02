@@ -13,6 +13,6 @@ CMake is a cross-platform build system that generates build program for C/C++, F
 ```bash
     mkdir build
     cd build
-    cmake .  # Configure the project CMakeLists.txt
+    cmake ..  # Configure the project CMakeLists.txt
     make     # Build the project (using Makefile)
 ```
